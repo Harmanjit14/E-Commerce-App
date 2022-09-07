@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743951174771",
+    "project_id": "ode2code-fafa7",
+    "storage_bucket": "ode2code-fafa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743951174771:android:21c7b9387662febc1dae06",
+        "android_client_info": {
+          "package_name": "com.example.ode2code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743951174771-sditbn8o54kn01a3lsv7edsb5me1hu3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWYI8UL4EoDu4lrkcg76QSurHXSnOhdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743951174771-sditbn8o54kn01a3lsv7edsb5me1hu3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
